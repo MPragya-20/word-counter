@@ -1,0 +1,14 @@
+#summary{
+    color: deepskyblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    padding: 40px;
+}
+
+.btn{
+    margin: 10px;
+    cursor: pointer;
+}
+.main-div{
+    margin: 10px;
+}
